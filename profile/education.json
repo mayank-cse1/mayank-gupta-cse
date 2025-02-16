@@ -1,0 +1,31 @@
+{
+    "education":[
+        {
+            "title": "Jul 2019 - Jun 2024",
+            "cardTitle": "B.Tech, Computer Science with spec. AI/ML",
+            "cardSubtitle":"VIT University, Chennai",
+            "cardDetailedText": "CGPA - 9.31",
+            "icon" : {
+                "src": "images/education/vit.png"
+            }
+        },
+        {
+            "title": "Apr 2019",
+            "cardTitle": "High School",
+            "cardSubtitle":"Ahlcon Public School",
+            "cardDetailedText": "Marks - 92.6%",
+            "icon" : {
+                "src": "images/education/aps.png"
+            }
+        },
+        {
+            "title": "Apr 2017",
+            "cardTitle": "Secondary School",
+            "cardSubtitle":"Ahlcon Public School",
+            "cardDetailedText": "Marks - 88.6%",
+            "icon" : {
+                "src": "images/education/aps.png"
+            }
+        }
+    ]
+}
