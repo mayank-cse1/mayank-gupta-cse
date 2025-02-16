@@ -1,0 +1,112 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/bob.jpg",
+            "title": "DEV – Virtual Financial Banking Assistant",
+            "bodyText": "- Dev, a virtual financial assistant, excels in simplifying and optimizing money management processes..\n - Dev responds FAQs, provides account balances, spending details, refund confirmations, and credit scores in the interactive interface. It can find duplicate charges and send bill reminders.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/mayank-cse/DEV-A-Virtual-Banking-Assistant"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://www.youtube.com/watch?v=uHREvKiU0g8"
+                }
+            ],
+            "tags" : [
+                "CSharp","Bot Framework", "ASP.NET", "MVC", "LUIS", "Azure", "API", "Microsoft Flow"
+            ]
+        },
+        {
+            "image" : "./images/projects/cyberpoliceHack.png",
+            "title": "Face Track AI",
+            "bodyText": "- Developed a Video-Face Tracking System using Python Jupiter Notebook, leveraging the power of the VGGFace2 pre-trained dataset, MTCNN, and Resnet 50. Automating the surveillance for the track of target face movement and action recognition in a CCTV video with 92% accuracy.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/mayank-cse/FaceTrackAI"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://docs.google.com/presentation/d/1kG8d_U1yW5xDszG19K5v0zI-joeRe-Df/edit"
+                }
+            ],
+            "tags" : [
+                "CSharp","Bot Framework", "ASP.NET", "MVC", "LUIS", "Azure", "API", "Microsoft Flow"
+            ]
+        },
+        {
+            "image" : "images/projects/Bot.png",
+            "title": "Go To Market Bot",
+            "bodyText": "- This project problem statement is to help Ecommerce Merchandiser manage the products and maintain transparency with the admin.\n - Built an application using .NET framework.\n -Followed the layered approach <Data | Business Logic | UI> with emphasis on edge cases and exception handled.\n -Designed to identify valuable information in conversations using Microsoft LUIS ML. Model.\n -Uses Microsoft Flow to send OTP to the merchandiser and authenticate there access.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/mayank-cse/EcommerceMerchandizerBot"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://www.youtube.com/watch?v=7rRr-QrRWcke"
+                }
+            ],
+            "tags" : [
+                "CSharp","Bot Framework", "ASP.NET", "MVC", "LUIS", "Azure", "API", "Microsoft Flow"
+            ]
+        },
+        {
+            "image" : "images/projects/HFS.png",
+            "title": "HUNGER FREE SOCIETY",
+            "bodyText": "- This project problem statement is solving the issue of Hunger, by making process of donating easier\n -Django based Telegram Bot coded in Python\n.- It uses Waterfall Dialog to guide and ensure good user experience\n -It is hosted on heroku over Telegram Application.\n",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/mayank-cse/Hunger-Free-Society"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://youtu.be/GeZ6NNe6sLs"
+                }
+            ],
+            "tags" : [
+                "Django", "Python", "Heroku","Bot Father", "Google Maps API"
+            ]
+        },
+        {
+            "image" : "images/projects/WB.png",
+            "title": "WEATHR BOT | NLP ENABLED",
+            "bodyText": "- An Android App that **automatically silences** your phone during class hours, designed for **VITians**.\n - Option to select class **slots** and **custom time**.\n - Option to put on Vibrate instead of Silent.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/mayank-cse/Weather-Bot"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://youtu.be/5cgnh4UVAJI"
+                }
+            ],
+            "tags" : [
+                "CSharp","Bot Framework", "ASP.NET", "MVC", "LUIS", "Azure", "API", "Bot Composer"
+            ]
+        },
+        {
+            "image" : "images/projects/programming-is-fun.png",
+            "title": "Github",
+            "bodyText": "- There are more projects to come! Please check out my Github for more projects!",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/mayank-cse"
+                }
+            ],
+            "tags" : [
+                "Java",
+                "Android",
+                "Firebase",
+                "RSA"
+            ]
+        }
+        
+    ]
+}

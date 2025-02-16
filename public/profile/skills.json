@@ -1,0 +1,110 @@
+{
+    "intro": "I keep experimenting with and learning technologies.\nThese are some of the major languages, technologies, tools and platforms I have worked with:",
+    "skills": [{
+     
+            "title": "Languages & Databases",
+            "items" : [
+                {
+                    "icon": "images/skills/python.png",
+                    "title": "Python"
+                },
+                {
+                    "icon": "images/skills/js.png",
+                    "title": "JavaScript"
+                },
+                {
+                    "icon": "images/skills/java.png",
+                    "title": "Java"
+                },
+                {
+                    "icon": "images/skills/c-plus-plus.svg",
+                    "title": "C++"
+                },
+                {
+                    "icon": "images/skills/mongo-db.png",
+                    "title": "Mongo DB"
+                },
+                {
+                    "icon": "images/skills/postgres.png",
+                    "title": "PostGres"
+                },
+                {
+                    "icon": "images/skills/mysql.png",
+                    "title": "MySQL"
+                },
+                {
+                    "icon": "images/skills/html.png",
+                    "title": "HTML"
+                },
+                {
+                    "icon": "images/skills/css.png",
+                    "title": "CSS"
+                }
+        ]},
+        {
+            "title": "Frameworks & Technologies",
+            "items" : [
+                {
+                    "icon": "images/skills/tensorflow.png",
+                    "title": "Tensoflow"
+                },
+                {
+                    "icon": "images/skills/pytorch.png",
+                    "title": "Pytorch"
+                },
+                {
+                    "icon": "images/skills/opencv.png",
+                    "title": "OpenCV"
+                },
+                {
+                    "icon": "images/skills/django.png",
+                    "title": "Django"
+                },
+                {
+                    "icon": "images/skills/flask.png",
+                    "title": "Flask"
+                },
+                {
+                    "icon": "images/skills/fastapi.svg",
+                    "title": "FastAPI"
+                },
+                {
+                    "icon": "images/skills/typescript.png",
+                    "title": "Typescript"
+                },
+                {
+                    "icon": "images/skills/react.png",
+                    "title": "React"
+                },
+                {
+                    "icon": "images/skills/nodejs.png",
+                    "title": "Nodejs"
+                }
+            ]
+        },
+        {
+            "title" : "Tools & Platforms",
+            "items": [
+                {
+                    "icon": "images/skills/git.png",
+                    "title": "Git"
+                },
+                {
+                    "icon": "images/skills/firebase.png",
+                    "title": "Firebase"
+                },
+                {
+                    "icon": "images/skills/postman.png",
+                    "title": "Postman"
+                },
+                {
+                    "icon": "images/skills/arduino.png",
+                    "title": "Arduino"
+                },
+                {
+                    "icon": "images/skills/docker.png",
+                    "title": "Docker"
+                }
+            ]
+    }
+]}

@@ -1,0 +1,143 @@
+{
+    "experiences": [
+        {
+            "title": "AI/ML Engineer",
+            "subtitle": "John Deere Global Technology Center",
+            "workType": "Full-time",
+            "workDescription": [
+                "Developed 'DeereVision AI Workspace', an NLP-powered digital workspace leveraging LLaMA 3.2 on the Ollama framework,",
+                "Ensuring robust data privacy and secure enterprise communication. Integrated Neo4j and Chroma databases to enhance the", 
+                "LLM's understanding of structured and relational data, enabling seamless interaction with enterprise datalake via Databricks.",
+                "Designed and Deployed modular Python solutions with LangChain using Terraform, Docker, and GitHub Actions on AWS."
+            ],
+            "dateText": "07/2024 – Present"
+        },{
+            "title": "Software Developer Intern",
+            "subtitle": "Swiggy",
+            "workType": "Internship",
+            "workDescription": [
+                "Developed 7 full-fledged dashboard for complete payments technology which consist of services like payment method downtime scheduling, hot-fixes, DDB CRUD operation & time taken for each event with progress using Elasticsearch & Retool."
+            ],
+            "dateText": "09/2023 – 07/2024"
+        },{
+            "title": "Chatbot Developer Intern",
+            "subtitle": "Dewiride Technologies",
+            "workType": "Internship",
+            "workDescription": [
+                "Crafted custom chatbots tailored to meet diverse client requirements.",
+                "Expanded proficiency in natural language processing, machine learning, and chatbot development.", 
+                "Collaborated closely with clients, gaining a profound appreciation for the synergy between technology and user experience."
+            ],
+            "dateText": "08/2022 – 12/2022"
+        },
+        {
+            "title": ".NET Developer Intern | Software Engineer",
+            "subtitle": "LG Electronics",
+            "workType": "Internship",
+            "workDescription": [
+                "52 out of 2500 applicants chosen to be a LG Electronics Intern.",
+                "Worked with LG core IT team in creating window web application in .NET framework to serve internal employee demands.",
+                "Helped in making lunch booking application.",
+                "Build **Go To Market Bot** a Merchandiser Reporting Virtual Assistant as my personal project for LG Internship Competition."
+                              
+            ],
+            "dateText": "05/2022 – 07/2022"
+        },
+        {
+            "title": "Teaching Assistant",
+            "subtitle": "Coding Ninja",
+            "workType": "Internship",
+            "workDescription": [
+                "Provided education support to 200+ students in learning key concepts of C++, Data Structures and Algorithm and OOPs",
+                "Resolved 1000+ doubts with an average rating of 4.7/5."
+            ],
+            "dateText": "01/2022 – 02/2022"
+        },
+        {
+            "title": "Research Intern",
+            "subtitle": "IIT Indore",
+            "workType": "Internship",
+            "workDescription": [
+                "Worked with [Dr. B. Majumdar](https://iiti.ac.in/people/~bodhisatwa) to study the various encryption schema.",
+                "Did an analysis of Paper Titled: [Dumbo, Jumbo, and Delirium: Parallel Authenticated Encryption](https://tosc.iacr.org/index.php/ToSC/article/view/8616) published in IACR Transactions on Symmetric Cryptology Journal.<a href= \"https://docs.google.com/presentation/d/1lFV0j8LQ6HVF-Ul_8HQG8GU_2SSgbpKA/edit?usp=sharing&ouid=110656000818841743215&rtpof=true&sd=true\">Power Point</a>"
+            ],
+            "dateText": "05/2021 – 07/2021"
+        },
+        {
+            "title": "Blogger",
+            "subtitle": "Self employed",
+            "workType": "",
+            "workDescription": [
+                "Write Blogs on **Dev** platform sharing my knowledge on Microsoft Azure",
+                "Sharing my knowledge of Microsoft Azure Administrator (AZ-104)",
+                "My Cert ID - I168-3849"
+            ],
+            "dateText": "11/2020 – Present"
+        }
+    ],
+    "volunteers": [
+        
+        {
+            "title": "IEEE Computer Society",
+            "subtitle": "Member of Programming Team",
+            "workType": "",
+            "workDescription": [
+                "Represented at various IEEE competitions and hackathons.", 
+                "Conducted knowledge sharing sessions.",
+                "Created and managed the team's website.",
+                "Memeber of interview panel during recruitments."
+            ],
+            "dateText": "01/2021 – 06/2022"
+        },
+        
+        {
+            "title": "Postman Student Expert",
+            "subtitle": "Postman",
+            "workType": "",
+            "workDescription": [
+                "Build and successfully send requests in Postman using a variety of methods including GET, POST, PUT, and DELETE. Include query and path parameters, authorization, and body data in requests.",
+                "Declare and reference variables at different scopes in Postman including environment and collection.",
+                "Edit documentation for a collection.",
+                "Write a basic test assertion script.",
+                "Run a collection, passing data between requests, and scripting request execution order."
+            ],
+            "dateText": "11/2021 – Present"
+        },
+        
+        {
+            "title": "Google Cloud Challenge",
+            "subtitle": "Google",
+            "workType": "",
+            "workDescription": [
+                "I worked on both the Cloud Engineering Track and Data Science & Machine Learning Track in this challenge.",
+                "It helped me to gain practical exposer to Cloud Core Fundamentals, Understanding Virtual Private Cloud (VPC)networking",
+                "Cloud Storage, Containers, IAM helps to control accessing of resources, Big Data and a lot more concepts were covered practically.",
+                "https://www.cloudskillsboost.google/public_profiles/cc2643c1-099b-4aa0-8de8-496970f31d55",
+                "Was part of first 5k applicants selected for the challenge by Google. I completed 12 Labs learning about topics like Virtual Machine,Website Migration with GCP."
+            ],
+            "dateText": "09/2021 – 10/2021"
+        },
+        {
+            "title": "Girl Script Summer Of Code",
+            "subtitle": "Student Ambassador Open Source",
+            "workType": "",
+            "workDescription": [
+                "Organized events related to Open Source. By the end of program, I organized 4 events with 100+ participation in each event.",
+                "Penned catchy fancy content for social handles of GSSoC'22.",
+                "Worked and collaborated in a team."
+            ],
+            "dateText": "02/2021 – 05/2021"
+        },
+        {
+            "title": "Fitness Club, VITC",
+            "subtitle": "Technical Department",
+            "workType": "",
+            "workDescription": [
+                "Developed club's website.",
+                "Worked on internal projects.",
+                "Member of interview panel during recruitments."
+            ],
+            "dateText": "07/2020 – 10/2020"
+        }
+    ] 
+}

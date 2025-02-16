@@ -1,0 +1,24 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/mayankguptacse1/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/mayank-cse"
+        },
+        {
+            "network" : "discord",
+            "href" : "https://discordapp.com/users/837321977952862239"
+        },
+        {
+            "network" : "linktree",
+            "href" : "https://linktr.ee/mayankguptacse1"
+        },
+        {
+            "network" : "youtube",
+            "href" : "https://www.youtube.com/channel/UClzzqziqywZlexmdeFteeIw"
+        }
+    ]
+}
