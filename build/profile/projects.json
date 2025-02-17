@@ -1,7 +1,7 @@
 {
     "projects" : [
         {
-            "image" : "images/projects/bob.jpg",
+            "image" : "images/projects/Bot.png",
             "title": "DEV – Virtual Financial Banking Assistant",
             "bodyText": "- Dev, a virtual financial assistant, excels in simplifying and optimizing money management processes..\n - Dev responds FAQs, provides account balances, spending details, refund confirmations, and credit scores in the interactive interface. It can find duplicate charges and send bill reminders.",
             "links": [
@@ -15,11 +15,11 @@
                 }
             ],
             "tags" : [
-                "CSharp","Bot Framework", "ASP.NET", "MVC", "LUIS", "Azure", "API", "Microsoft Flow"
+                "CSharp", "ASP.NET", "MySQL", "LUIS", "Azure", "API", "Microsoft Flow", "CosmosDB"
             ]
         },
         {
-            "image" : "./images/projects/cyberpoliceHack.png",
+            "image" : "images/projects/Bot.png",
             "title": "Face Track AI",
             "bodyText": "- Developed a Video-Face Tracking System using Python Jupiter Notebook, leveraging the power of the VGGFace2 pre-trained dataset, MTCNN, and Resnet 50. Automating the surveillance for the track of target face movement and action recognition in a CCTV video with 92% accuracy.",
             "links": [
@@ -33,7 +33,7 @@
                 }
             ],
             "tags" : [
-                "CSharp","Bot Framework", "ASP.NET", "MVC", "LUIS", "Azure", "API", "Microsoft Flow"
+                "Python","MTCNN", "RESNET 50", "FLASK", "Jupyter Notebook", "Firebase"
             ]
         },
         {
